@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component renders correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#212138",
+      "flex": 1,
+      "justifyContent": "space-evenly",
+      "padding": 20,
+    }
+  }
+>
+  <Image
+    resizeMode="contain"
+    source={
+      {
+        "testUri": "../../../assets/file.png",
+      }
+    }
+    style={
+      {
+        "height": 933.8,
+        "width": 525,
+      }
+    }
+  />
+  <Text
+    style={
+      {
+        "alignSelf": "center",
+        "color": "#ffffff",
+        "fontSize": 20,
+        "fontWeight": "bold",
+      }
+    }
+  >
+    Thundr
+  </Text>
+</View>
+`;
